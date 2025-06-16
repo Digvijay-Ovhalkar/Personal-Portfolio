@@ -28,6 +28,6 @@ document.addEventListener("DOMContentLoaded", function() {
     const downloadBtn = document.querySelector('.btn'); // Select the button
     downloadBtn.addEventListener('click', function() {
         // Change the window location to the PDF file when clicked
-        window.location.href = "resume.pdf"; // Replace with your actual file path
+        window.location.href = "Digvijay_Ovhalkar_Resume.pdf"; // Replace with your actual file path
     });
 })
